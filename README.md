@@ -2,8 +2,8 @@
 
 An interactive web application built with JavaScript to manage personal contacts and log travel experiences. This project demonstrates Object-Oriented JavaScript utilizing constructors, prototype methods, and Test-Driven Development (TDD).
 
-**Author:** [Your Name]  
-**Live Site:** [Link to your GitHub Pages site]
+**Author:** [Emmanuel Mwandiki]  
+**Live Site:** []
 
 ---
 
